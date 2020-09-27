@@ -271,10 +271,6 @@ footer {
     background: rgba(19, 28, 39, 1);
 }
 
-.form-wrapper {
-    width: 100%;
-}
-
 .footer-wrapper {
     display: flex;
     padding: 2rem;
@@ -329,5 +325,8 @@ footer ul {
     }
     footer {
         text-align: center;
+    }
+    .form-wrapper {
+        width: 100%;
     }
 }
